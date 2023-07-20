@@ -37,7 +37,7 @@ If you find this code useful in your research, please consider citing our paper:
 ```bibtex
 @article{yourPaperIdentifier,
   title={Integrative Deep Learning Analysis Improves Colon Adenocarcinoma Patient Stratification at Risk for Mortality},
-  author={JieZhou, Ali Foroughi pour, Hany Deirawan, Fayez Daaboul, Thazin Nwe Aung, Rafic Beydoun, Fahad Shabbir Ahmed, Jeffrey H.Chuang},
+  author={Jie Zhou, Ali Foroughi pour, Hany Deirawan, Fayez Daaboul, Thazin Nwe Aung, Rafic Beydoun, Fahad Shabbir Ahmed, Jeffrey H.Chuang},
   journal={eBioMedicine},
   year={2023}
 }
