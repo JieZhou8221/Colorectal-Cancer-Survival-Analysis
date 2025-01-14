@@ -1,3 +1,9 @@
+For the data, please visit:
+https://zenodo.org/records/8163751
+https://zenodo.org/records/8170095
+
+
+
 # Integrative Deep Learning Analysis Improves Colon Adenocarcinoma Patient Stratification at Risk for Mortality
 
 This repository offers a comprehensive pipeline for survival analysis using machine learning models, specifically utilizing the [Keras library](https://keras.io/) backed by [TensorFlow](https://www.tensorflow.org/). The survival analysis is carried out on patient data which encompasses image features and clinical information. The model makes predictions based on these image features, and the resulting predictions are then analyzed with respect to patient survival times.
